@@ -5,7 +5,8 @@ export const myBlog = [
         prefix: "software-installation/",
         collapsable: false,
         children: [
-            "nginx"
+            "nginx",
+            "elk"
         ],
     },
     {

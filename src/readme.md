@@ -7,7 +7,7 @@ heroText: JavaGuide
 tagline: 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 actions:
   - text: 开始阅读
-    link: /home/
+    link: /my-blog/
     type: primary
   - text: 知识星球
     link: /about-the-author/zhishixingqiu-two-years.md
@@ -55,9 +55,6 @@ footer: |-
 - [《分布式相关面试题汇总》](https://t.1yb.co/GXLF)
 - [《图解计算机基础》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=100021725&idx=1&sn=2db9664ca25363139a81691043e9fd8f&chksm=4ea19a1679d61300d8990f7e43bfc7f476577a81b712cf0f9c6f6552a8b219bc081efddb5c54#rd)
 
-## 公众号
-
-最新更新会第一时间同步在公众号，推荐关注！另外，公众号上有很多干货不会同步在线阅读网站。
 
 <div style="text-align:center">
     <p>

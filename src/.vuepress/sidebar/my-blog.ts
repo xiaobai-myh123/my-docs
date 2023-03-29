@@ -15,7 +15,16 @@ export const myBlog = [
         prefix: "software-installation/",
         collapsable: false,
         children: [
-            "test"
+            "docker"
         ],
     },
+    // {
+    //     text: "工具代码",
+    //     icon: "et-performance",
+    //     prefix: "tools-code/",
+    //     collapsable: false,
+    //     children: [
+    //         "code"
+    //     ],
+    // },
 ];
